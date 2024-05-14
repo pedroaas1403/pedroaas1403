@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pedroaas1403
+- 👋 Hi, I’m Pedro Azevedo Alves de Sousa
 - 👀 I’m interested in learning and working about programming
 - 🌱 I’m currently learning computer cience at UFBA
 - 💞️ I’m looking to collaborate on anywhere which acept me
